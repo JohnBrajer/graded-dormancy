@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "Graded Dormancy by John Brajer"
 abstract: "Graded Dormancy by John Brajer: DORMANT — DEAD; preserve inactive possibilities without deleting them."
 type: software
+doi: "10.5281/zenodo.23718103"
 authors:
   - family-names: Brajer
     given-names: John
